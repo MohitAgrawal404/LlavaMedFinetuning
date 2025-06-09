@@ -36,6 +36,7 @@ from llava.model import *
 from llava.mm_utils import tokenizer_image_token
 
 from PIL import Image
+from llava.model.language_model.llava_mistral import LlavaMistralForCausalLM
 
 
 local_rank = None
@@ -824,7 +825,7 @@ def train(attn_implementation=None):
                 **bnb_model_from_pretrained_args
             )
         else:
-            model = LlavaLlamaForCausalLM.from_pretrained(
+            model = LlavaMistralForCausalLM.from_pretrained(
                 model_args.model_name_or_path,
                 cache_dir=training_args.cache_dir,
                 attn_implementation=attn_implementation,

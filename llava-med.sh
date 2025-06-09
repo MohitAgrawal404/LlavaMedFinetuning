@@ -1,0 +1,44 @@
+# This is the script to run the lora finetuning
+
+deepspeed llava/train/train_mem.py \
+  --lora_enable True \
+  --lora_r 16 \
+  --lora_alpha 64 \
+  --mm_projector_lr 3e-5 \
+  --torch_compile False \
+  --torch_compile_backend "inductor" \
+  --deepspeed ./scripts/zero3.json \
+  --model_name_or_path ./merged_llava_med_model_epoch_300 \
+  --version v1 \
+  --data_path ./wilms_training_data.json \
+  --image_folder ./ \
+  --vision_tower openai/clip-vit-large-patch14-336 \
+  --mm_projector_type mlp2x_gelu \
+  --mm_vision_select_layer -2 \
+  --mm_use_im_start_end False \
+  --mm_use_im_patch_token False \
+  --image_aspect_ratio pad \
+  --group_by_modality_length True \
+  --bf16 True \
+  --output_dir ./checkpoints/llava-med-lora-alpha-16-64 \
+  --num_train_epochs 2 \
+  --per_device_train_batch_size 1 \
+  --per_device_eval_batch_size 2 \
+  --gradient_accumulation_steps 4 \
+  --evaluation_strategy "no" \
+  --save_strategy "steps" \
+  --save_steps 100 \
+  --save_total_limit 5 \
+  --learning_rate 3e-5 \
+  --weight_decay 0.001 \
+  --warmup_ratio 0.1 \
+  --lr_scheduler_type "cosine" \
+  --logging_steps 50 \
+  --tf32 True \
+  --model_max_length 640 \
+  --gradient_checkpointing True \
+  --dataloader_num_workers 2 \
+  --dataloader_pin_memory True \
+  --remove_unused_columns False \
+  --lazy_preprocess True \
+  --report_to wandb 

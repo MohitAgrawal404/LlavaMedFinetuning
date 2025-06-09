@@ -4,12 +4,6 @@ __pycache__
 *.egg-info
 dist
 
-# Log
-*.log
-*.log.*
-*.json
-*.jsonl
-
 # Data
 !**/alpaca-data-conversation.json
 
@@ -20,10 +14,6 @@ dist
 # Other
 .DS_Store
 wandb
-output
-
-checkpoints
-ckpts*
 
 .ipynb_checkpoints
 *.ipynb

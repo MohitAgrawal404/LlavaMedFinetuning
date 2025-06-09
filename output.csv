@@ -1,0 +1,224 @@
+filename,ground_truth,model_response,predicted,correct
+aug_0_1609_jpeg.rf.0c95b0aa32edbadd4e09abfa6552cc79.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_909_jpeg.rf.034295c9081700ba86af960863601e09.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1617_jpeg.rf.0de28e18bba964ea9f3b098018ca7be8.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_3934_jpeg.rf.03a12678cd20b151545fcc15dbf73b2f.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5477_jpeg.rf.028f74410aa1086780534c81a0893c54.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9302_jpeg.rf.0db0ea6dcb7ef43838eee39616807dc1.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9689_jpeg.rf.201a1acda3741b93fa3ad5f2c1763026.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5974_jpeg.rf.0a9b99f2055fd7f8d5c30e12729deb95.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_4384_jpeg.rf.2581fb3f63317d1c25a1b75fc109335f.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2804_jpeg.rf.1673d9a0757ec2e8bc3c0e4b086f8d3e.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_8648_jpeg.rf.099991452c7e2b1f6d958812dbae6d23.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7501_jpeg.rf.036399877edb9e14d91be1b45be6181c.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2284_jpeg.rf.1c2064bc7af5f05b0d8372a9f317a9e2.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_9685_jpeg.rf.14a77fea2e26cb284f71186f8de326ea.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_9760_jpeg.rf.0e2affa77c8019af650f9bc6142e5b1d.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_4993_jpeg.rf.06c201647b5c1a427f2df9a7bb7a260c.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_3808_jpeg.rf.1ab71abbf35fc805b0561565ff7a3846.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5673_jpeg.rf.1483ba0e2672de164cf667bba7692289.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3561_jpeg.rf.1c0b8d76656a9d86cab0c206e09f0ca0.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_842_jpeg.rf.23875b345fa782fc87866782075b3a62.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5728_jpeg.rf.2afaa7dedf3102d34fa3e29af863b4ad.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_5059_jpeg.rf.03320fa6cfed99a3fe602aa18b8eee86.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3143_jpeg.rf.288185019e73cc1936b455d3c2c8b6d6.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_7608_jpeg.rf.2f5041da38b836ac277025e7d9f99048.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3266_jpeg.rf.22b7218f873c8b915ddf531f9d69bdd1.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_5572_jpeg.rf.2f3ef215d0e6cad96912a17a295b2b19.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_6331_jpeg.rf.2b766c633591baee70bc75fa8569d3f8.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_8964_jpeg.rf.2c8b9ed44160884bc341dbf7801f9cc7.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_4854_jpeg.rf.0d9c19e027899ff1e40418722ae0621e.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_4274_jpeg.rf.2ad45b2d039b061af41b6d3157c3fe93.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9491_jpeg.rf.2e2d6e856d5692a84319f7465e1e7630.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_7508_jpeg.rf.2fc982d622f5fbae5ca683740df84c38.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_4026_jpeg.rf.33b4bd29d997ad17294c70f6b9b7184d.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_4392_jpeg.rf.321e067d46c8aa03be3c8dd0aa61c4a1.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_6563_jpeg.rf.356c208e2489d843923c80704d6d4a04.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_8744_jpeg.rf.33de5fed67ff1d7b377fceecb51f3393.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_329_jpeg.rf.3767340f5c5e5fc67ce49cc51e8e818b.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7454_jpeg.rf.3626900819a246bcd29a6a15e09d9517.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9784_jpeg.rf.409cf52f9d57e000baca1a7a39fafdd7.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1060_jpeg.rf.3418470d6614b3e97d552b67beec39d9.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1009_jpeg.rf.3dc4486bd683af9f99fb1e78aeb9a624.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_2324_jpeg.rf.3962849c6d907744e7a928171b3ea09d.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_5916_jpeg.rf.3f1ceff6814418082f2b178562412434.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_3671_jpeg.rf.46e2c1af4a4a21fdca11fbbd044b2b28.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9212_jpeg.rf.3f1266566a6e815fee8cf37a42e75614.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_271_jpeg.rf.4278caa971450371217da2689153350f.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3660_jpeg.rf.3aa72ecb1f9245a108240de93ab3a250.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3862_jpeg.rf.4029d99d687d4e4ee76ef6a792818a33.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_9410_jpeg.rf.3e9b0a879f6889d7725da903b69302b6.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7513_jpeg.rf.49736ad033a10e1ad9499ee9e3344ecf.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_8504_jpeg.rf.44108feae57a5d26e2fefb33e5f034ce.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2885_jpeg.rf.45a4a1f9791bc505109ff80369c9f757.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2545_jpeg.rf.4bdd67acdb7228d2adcfc9a868ce1791.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_8679_jpeg.rf.4d91b70f97aa21059ca3a943d749aaae.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6459_jpeg.rf.47a170de8009ab87aa9840153ad99dd6.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_877_jpeg.rf.4d56aa283dd5f0af3e58b8b54542f094.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_8872_jpeg.rf.49a8061dd99fa7d031bba0cf5ddb838b.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_3992_jpeg.rf.49fbb5646d7020d148b741f6c6a89abb.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1741_jpeg.rf.4f8f4ea8f4091846fb3fd5aba3b27e42.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_705_jpeg.rf.508d55e65f1b65205040622def2c021a.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_2097_jpeg.rf.4f3cab6a6a39521143fbe5dade64caf7.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_8372_jpeg.rf.56af8b9c1ef6f4102319100d7e611259.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_154_jpeg.rf.58ac4605acc5a4a8b9e914625b501a8b.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_1449_jpeg.rf.4f6f54563f064c2ab2a65dc45a57c906.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_7837_jpeg.rf.531fecb6c0d30a1e1b2f76d5c1c0d49b.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2530_jpeg.rf.62f4a26db43a0cbce37a06c4b1241015.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_7032_jpeg.rf.6148bd3b55e3181c36d2567a68bdd0b5.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_5524_jpeg.rf.5b8d71d6b697321af6269e1169b0ac5b.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_3937_jpeg.rf.5af818935ac5df9d86968ae0b0804565.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1025_jpeg.rf.63b2f19c24cc28f6b0a1182983841ff7.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6717_jpeg.rf.577b3102de2f120ed17ed8bcf612cff5.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3929_jpeg.rf.5f077b610e89d9067e10e7007052f144.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2694_jpeg.rf.53c703afe4b5e7a1e0ef1d572a62d6cc.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_522_jpeg.rf.58ef5c992c80c4d346c3adf4b1c0e178.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9418_jpeg.rf.661b80873e3eb85bef13b6075cd2c355.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_6291_jpeg.rf.590616136e31c3146a27c871b53a10b8.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_473_jpeg.rf.5ca2b6cf7c876f2f91ece39fef3b7e4d.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1111_jpeg.rf.60e69e45374655805d30a4ad9bef998a.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2721_jpeg.rf.5130b5085c915ab589b90859f6e2abc7.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1204_jpeg.rf.629e82d1d45c8305e1b45f306839d7e7.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_532_jpeg.rf.5c0c2b318e2f7ff2017fbd503a3a35ce.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_4695_jpeg.rf.670424d2e3c4375938f171f32f3dd1c2.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6074_jpeg.rf.67976484f2e7ca7ecbe5076d42f553e9.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_2270_jpeg.rf.6c1109ff289a09050a418e6de79b515a.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_6031_jpeg.rf.6890517922846e97957bff9ddd95895d.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6418_jpeg.rf.7213156f76179a0b1cd985d3506c6e4c.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1743_jpeg.rf.6debab00f471f17743932bb71aace449.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7256_jpeg.rf.729f2f0f083676587e41392740ff9116.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7577_jpeg.rf.68b144dc6e1fa17907b797707e332bbb.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9439_jpeg.rf.8170ab43e722aa5a990074b8e9423532.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1684_jpeg.rf.729303dbdef0a69e681c3db5aedc37f5.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9412_jpeg.rf.691cf4040efc90184091700f83d9b00b.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6742_jpeg.rf.768de5597f0e6b69893f1f906a191a1d.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_5743_jpeg.rf.7f7ef67eadf78685439697e34f12337b.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_4258_jpeg.rf.766459c69e31cc8024a4ca3ec99f6064.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7975_jpeg.rf.6fd62dc1b84ae8ace95aa8a8d2799547.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_6059_jpeg.rf.72db192b5f2df7f88e4e17fca7613cdd.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_7857_jpeg.rf.73678a7804dde0da7a597fa3bebcf35d.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_3815_jpeg.rf.6d1baaa5982cc84443fa139f0fd9c8dc.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_4521_jpeg.rf.6a74c618f6b1ed73d4d5b67435ed0ce7.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_5416_jpeg.rf.6a5da8f42ff51e0d801cd6b6de363059.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9285_jpeg.rf.70e2031e85f9267b5d828d23e96359b4.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_9471_jpeg.rf.7611f5c328b0548310973c5e7e660d1b.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1822_jpeg.rf.8090853df92c8f3b73428f7a3aa5db01.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_3583_jpeg.rf.796045471bea4f046c3b3cb06a579f3d.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9944_jpeg.rf.78521ef5939f65541596d13f616f8026.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_7867_jpeg.rf.82f41623caa07a47022c667d4af4ad5c.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3081_jpeg.rf.8330babda73a606a3419f685d94d4ef6.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9215_jpeg.rf.86c59817579ef0e3580c3d078eb08745.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_1257_jpeg.rf.82c158165b5ea6676053449f03fbef08.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_9725_jpeg.rf.81da9f608949f68d47cb2e715adaa359.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1322_jpeg.rf.88afe3cd4998a4f9db30ecda545239be.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_6529_jpeg.rf.8af1a515608c12e354466e51f62caa87.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_4447_jpeg.rf.8ca40fefe9566737a4d053106592e3f3.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2282_jpeg.rf.88e25979f842db49a7ad1ac5e4c74587.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_4003_jpeg.rf.94b3210673f319311f1cd18d92e56232.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_829_jpeg.rf.9a3fe4cd94f995f207911547ae97c818.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7031_jpeg.rf.8e82da86fd75ba9005e97e8736fea980.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3669_jpeg.rf.9a150d5640df49d19c9d81473bf6ff71.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2433_jpeg.rf.9e437d0144bf1a8585874c0a9c25da37.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3907_jpeg.rf.8c58d8ed41fb925c60e1e29d882a366f.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3886_jpeg.rf.976af30c5cec9a9bbc04a49c1c759636.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1492_jpeg.rf.9ddc68725090f0b9a5b15bfd16cfe947.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6908_jpeg.rf.9650cd163fd5289416fee536f3bb469a.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2074_jpeg.rf.a04d897316acbb8dccbd34662209a03e.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_4922_jpeg.rf.a527ea14af2cd1e83ca3220933a12669.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1462_jpeg.rf.a2a13d32b7f59b6af5395896ec5d6b35.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_4762_jpeg.rf.a37eef7fe5daae285364a63bcca200a1.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_5039_jpeg.rf.a6676cb23db21d77e4df4cf5ba094e2f.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_633_jpeg.rf.a4d168e28424e8a83df168f479c5cbed.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_9198_jpeg.rf.a36b3db1522fd884c705851d1a9bd127.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1632_jpeg.rf.a5bee28f74d565ed2b4e96d9f204e0c9.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_4360_jpeg.rf.a0157b26026963a198e3f57cd1c65be2.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_2056_jpeg.rf.8bd2b57e345a92afb5dba7c76ce3c41a.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_837_jpeg.rf.a9df8283c078a7d1556275b605946ab2.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_9705_jpeg.rf.9c37bd0cd10a5ae240218b9fd29d2e51.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3493_jpeg.rf.9fc99e1bce66d51ee575c5acd0331b41.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_6310_jpeg.rf.aacfb1a19ef2c25b339dbf2b56c7fed7.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_8153_jpeg.rf.b0c9f94ab33f6bbf30ff1ba6e3b33f37.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_7419_jpeg.rf.b1dc829141af3536b565d51f3a3f12f4.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1944_jpeg.rf.a892436c4e7258487cbe17c154b18e1f.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_681_jpeg.rf.ab46e045745c67e6fb6f8b369d153470.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_4299_jpeg.rf.b6ae092d4e37873d9b98db38fca78445.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_696_jpeg.rf.adb11ac9124e05fc7d55780fc6ec3a9f.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_5585_jpeg.rf.af26862a2480f0e7e68551651e1cf5f9.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_8106_jpeg.rf.b7db6b8c35a9326b52681b3b203f87e7.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_8304_jpeg.rf.b51c872cc9616eafefba8f0a3fd0f7e7.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6524_jpeg.rf.bbade13b4d66c80e4f32a07fac0f770f.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5236_jpeg.rf.be286aa12a7ffd5872bad6622d4672c9.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_1342_jpeg.rf.bd3c598da009957016fa78b3fd239bd6.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_6628_jpeg.rf.bb32aafb7ac7399966e6a2a7341edc50.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_3823_jpeg.rf.c8d721c454cf9330c4845cd4bd84c0b5.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9185_jpeg.rf.c360f24fcab99262c9e13049fdb38a8b.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6251_jpeg.rf.bc6c9efa3733e2612228d1196fa0db29.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6148_jpeg.rf.c4f6e703a3b0c62f578558d81de3f0dc.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2697_jpeg.rf.c2acab70c55b0a95239a2bb64d9b331d.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2945_jpeg.rf.bee87792172d203d73e002df0fdd66fb.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_912_jpeg.rf.ce0bf1bfbacc1796af9045b44f06e4f9.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_1193_jpeg.rf.c9f5e6ed4c0c2672ecdcbd99d235c58e.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_9868_jpeg.rf.cf0fdd5d87e779d279a79aed8a63df4e.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_5855_jpeg.rf.c09d25dfd2af78e0e28991579f887742.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_5455_jpeg.rf.c7a537b4de163c256e81ff1ca709762a.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9586_jpeg.rf.cdb877a3352c06af6feebe0542ec96b0.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_1839_jpeg.rf.cadb9eade20fbd4537b72e3983f770c1.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_21_jpeg.rf.bf26ff6a0bdd57268361cb6a1cfe2ea1.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6751_jpeg.rf.c34fe27d74091207724e02c1561e4c5d.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2429_jpeg.rf.cb96c3313dbc7b8ed53f6d2df7bdf9e5.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6765_jpeg.rf.c2bcdb19331dc2b233235394251334a4.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_6968_jpeg.rf.cb39cee024132b265948e911c01184da.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1658_jpeg.rf.ce5f014b28071855965a654f8e0f2b76.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5707_jpeg.rf.cfb16c369c843902754ff7c515617013.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_1804_jpeg.rf.d36587c4003c3189088a048d7025f4a6.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_7199_jpeg.rf.ceb6996fa432634f002f4d43463720ab.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5190_jpeg.rf.d87b8b53bb4862f8bc041dc7e8043560.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6069_jpeg.rf.d3ea5dfb956a8a420915269d47bf6478.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_5086_jpeg.rf.d65cebc85c3717af9b66ec79135a8b82.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_9166_jpeg.rf.d0515fad530ff71258bcf54b0f1c7e44.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7739_jpeg.rf.cd3116e9b1696ed2296aa3f5138fc146.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_8663_jpeg.rf.d9d248bee1ab5b4b46100da11c158fce.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9131_jpeg.rf.cf6d04566810255ccfba1571bec77caf.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2277_jpeg.rf.d9b2ec8e1855ee1bb71d4471da1c6ce7.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_918_jpeg.rf.d9d7bb40375d7716c1ad1aa2e43e9ab9.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3522_jpeg.rf.dacdcd44e8b2d9c5da59d1f44926a932.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_2699_jpeg.rf.dca91014891a45648373cbb3810acaca.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_8787_jpeg.rf.daf99dc5f09a777093e972f6560cc073.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_3840_jpeg.rf.dcbf4ccb77c633fabdb37d197db8038f.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_9227_jpeg.rf.dc6993d2f9fd84f203a216eb421f35b3.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_9947_jpeg.rf.df0dc22be096437dc263ba34917b089e.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_7138_jpeg.rf.e071e66a6ee7baf8f8ffb45a16a4ff19.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_2756_jpeg.rf.e0e31e9a559901c0d2d9373c7e13483e.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_7128_jpeg.rf.dd64b86e84a097312eed93f597a8b10f.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_6895_jpeg.rf.e1dc26608b2b6e259c74d82170019677.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_6936_jpeg.rf.ddb44ca00d91155880edf43bf558abd9.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_3876_jpeg.rf.e6c972911ce8f9dcdef420c3cf31dcd0.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_6297_jpeg.rf.dcbb2a7920530aff0d4ec8079749718b.jpg,1,"No, the image shows a different disease.",0,False
+aug_0_3016_jpeg.rf.e2744e09e6850fb4b7dcaeb72775dcb4.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_6237_jpeg.rf.e7793a752bd2fc66e925ab9ca531c277.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_9894_jpeg.rf.f0691e4389d0dfd02e6417cf5c2be2e9.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_2855_jpeg.rf.e927f4d6e909b364fb0f3397a444ec8c.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_9260_jpeg.rf.e900f5a9e72be895709d79363412a047.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_9629_jpeg.rf.e087c5689d2f22c125b0530708ee9856.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_2719_jpeg.rf.e7cfa2900e63fa7b087f6e7ce5f44a15.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5966_jpeg.rf.f6e68162cd70da5f8f70d439f37fb61a.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_571_jpeg.rf.ea549204d5401a36d08cee70df10ea1f.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_4679_jpeg.rf.f06899c808ccd53254f7f7b76f6d4da7.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_5078_jpeg.rf.f418c626802403605b3aa0a54a78ec63.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9851_jpeg.rf.f74382bce240448d2270e44768066715.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_8845_jpeg.rf.f09a1e8a66b8519a3d35d1660b93fe4c.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_8472_jpeg.rf.f2abae0e809e768804ad2ed6c29863a4.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_5382_jpeg.rf.f81f9790173245049f0a5e47de29eb33.jpg,0,"Yes, the image shows a Wilms tumor.",1,False
+aug_0_5146_jpeg.rf.f7f339e9b112e361e2a03a19163dc58b.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_4981_jpeg.rf.df0e4c65a8ba16d3ec0bd1075c7ba0d8.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_4713_jpeg.rf.efbc3837ff0f449163c6c58425dc3c36.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_1496_jpeg.rf.f66145415c13596d5675f097a5e50763.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
+aug_0_517_jpeg.rf.f8288a048a5a7f2fbbecae9cf975d730.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_9504_jpeg.rf.f8bcb0952a2be6080adfc8f52ebe218e.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_6003_jpeg.rf.f96b45a7de492806c8209cfcbdde2eb9.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_8341_jpeg.rf.f8cd5ed94b3402c31b6114f20b766097.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_5350_jpeg.rf.f8b1608ca6724d3f99507a6d8926f524.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_7505_jpeg.rf.f860f1c8aa26f6419c7d4217f6faf9b8.jpg,0,"No, the image shows a different disease.",0,True
+aug_0_1660_jpeg.rf.fc27d3ce79f688dbd7053dce3178dd3a.jpg,1,"No, the image shows a ct scan of a different disease.",0,False
+aug_0_2828_jpeg.rf.fc285c03069520384b034edb4bb5ae1f.jpg,0,"No, the image shows a ct scan of a different disease.",0,True
+aug_0_8821_jpeg.rf.fe75d89ecd0001081e069d9e4b16d0e5.jpg,1,"Yes, the image shows a Wilms tumor.",1,True
