@@ -2,6 +2,8 @@
 
 This project is forked from [LLaVA](https://github.com/haotian-liu/LLaVA) and provides implementations for fine-tuning multimodal models using two different approaches: LoRA (Low-Rank Adaptation) and Prompt Tuning.
 
+Read more about my implementation and experiments ran to get my results here: [Experiments Paper](https://drive.google.com/file/d/1PwBZ_yenI23aEjwovkTk31gb9fvTC_9o/view?usp=sharing) 
+
 ## Overview
 
 The repository supports fine-tuning LLaVA models for specialized tasks, particularly focusing on medical image analysis. Two fine-tuning strategies are available:
